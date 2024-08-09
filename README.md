@@ -15,10 +15,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 <div align="center">
   <h3>📊 My Stats</h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeram&show_icons=true&theme=dark)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ttaeram&theme=dark)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyroneryu&show_icons=true&theme=dark)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tyroneryu&theme=dark)](https://git.io/streak-stats)
   ___
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=utrm00)](https://solved.ac/utrm00/)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttaeram&layout=compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyroneryu)](https://solved.ac/tyroneryu/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyroneryu&layout=compact)
   
 </div>
