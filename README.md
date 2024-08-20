@@ -6,9 +6,25 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 </div>
 
 <div align="center">
+<div align="center">
 <h3>✉ Contact</h3>
 
-<a href="https://www.google.com/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/ryu.tyrone@gmail.com-EAEAEA?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
+    <td style="padding-left: 10px;">ryu.tyrone@gmail.com</td>
+  </tr>
+   <tr>
+    <td><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></td>
+    <td style="padding-left: 10px;">tyrone_ryu</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"></td>
+    <td style="padding-left: 10px;">(+82) 10-6526-6236</td>
+  </tr>
+</table>
+
+
 </div>
 
 
